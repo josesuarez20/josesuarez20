@@ -94,7 +94,7 @@ Real-time widgets & live content with SSR and performance optimization.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josehms&theme=tokyonight" width="98%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josesuarez20&theme=tokyonight" width="98%"/>
 </p>
 
 ---
@@ -103,7 +103,7 @@ Real-time widgets & live content with SSR and performance optimization.
 ## 🏆 Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=josehms&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=josesuarez20&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
