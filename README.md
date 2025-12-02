@@ -1,10 +1,23 @@
-# 👋 Hi, I'm **José HMS* 
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=220&section=header&text=José%20HMS&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Fullstack+Developer;Clean+Code+Enthusiast;Building+Scalable+Digital+Products;Java+%7C+Angular+%7C+React+%7C+Next.js&center=true&width=500&height=45)](https://git.io/typing-svg)
+<p align="center">
+  <b>Frontend & Full-Stack Developer • Clean Code • Scalable Architecture</b>
+</p>
 
-💻 ** Fullstack Developer **  
-Passionate **Frontend & Full-Stack Developer** with experience building scalable, high-performance digital platforms for **fintech**, **corporate systems**, and **media applications**.  
-I love writing clean, optimized and maintainable code using modern architectures and best practices.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Fullstack+Developer;Clean+Architecture+Enthusiast;Building+High-Performance+Platforms;Java+%7C+Angular+%7C+React+%7C+Next.js&center=true&width=550&height=45"/>
+</p>
+
+---
+
+## 🎯 About Me  
+
+I build **robust, scalable and high-performance applications** for fintech, corporate systems, and digital platforms.  
+Focused on **clean architecture, performance, DX/UX**, and maintainable code.
+
 ---
 
 ## 🚀 Tech Stack
@@ -54,24 +67,62 @@ I love writing clean, optimized and maintainable code using modern architectures
 
 ## 🚀 Featured Projects
 
-- 🌐 **devjose.com** – Personal website built with Next.js 15 + TailwindCSS + SEO  
-- 💱 **Multi-Tenant Currency Exchange Platform** – Next.js + Tailwind + SSR + API design  
-- 🩺 **OEFA EMO System** – Corporate medical examination platform (Angular 5/8 + Java 8 + Oracle)  
-- 📺 **Dashboard TV Widgets** – Real-time widgets with SSR and performance optimization  
+
+### 🌐 **devjose.com**
+**Next.js 15 + TailwindCSS + SEO + Brand System**  
+Personal developer portfolio with multi-tenant builder foundation.
+
+---
+
+### 💱 **Multi-Tenant Currency Exchange Platform**
+**Next.js • TailwindCSS • SSR • Optimized APIs**  
+Engine powering multiple fintech brands with dynamic configuration.
+
+---
+
+### 🩺 **OEFA EMO Platform**
+**Angular 5/8 • Java 8 • Oracle • MyBatis**  
+Corporate system for occupational medical exams with scheduling, documents, and workflows.
+
+---
+
+### 📺 **Dashboard TV Widgets**
+Real-time widgets & live content with SSR and performance optimization.
 
 ---
 
 ## 📊 GitHub Stats  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=josesuarez20&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josehms&theme=tokyonight" width="98%"/>
+</p>
 
 ---
 
-## 🌎 Conéctate conmigo  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josehms/)  
-[![Portfolio](https://img.shields.io/badge/Website-devjose.com-000000?logo=vercel&logoColor=white)](https://devjose.com)  
-📩 **Email:** josehsuarez20@gmail.com  
+## 🏆 Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=josehms&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/josehms/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+  </a>
+  <a href="https://devjose.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:josehsuarez20@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=minutemailer&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 ✨ _“## 🚀 Featured Projects
